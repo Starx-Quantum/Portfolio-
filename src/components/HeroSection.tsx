@@ -71,7 +71,7 @@ const HeroSection = () => {
                 </p>
                 <p className="text-black font-medium">
                   📄 <a 
-                    href="https://drive.google.com/file/d/1wTeQKjNsc6MbEi-mA3ygAeCJz3YjT7_S/view?usp=sharing" 
+                    href="https://drive.google.com/file/d/1KqBIyrL1E-bkqyNEb1UFrnscS1Jzf6K6/view?usp=sharing" 
                     target="_blank" 
                     rel="noopener noreferrer" 
                     className="portfolio-link inline-block bg-black text-white px-3 py-1 rounded hover:bg-gray-800 transition-colors"
