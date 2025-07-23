@@ -1,10 +1,19 @@
-
 import React from 'react';
 
 const ProjectsSection = () => {
   console.log('Rendering ProjectsSection');
   
   const projects = [
+    {
+      name: 'miniresume-builder',
+      description: 'Engineered a full-stack MERN application for seamless resume creation, featuring JWT-based authentication and a CI/CD pipeline for automated testing and deployment.',
+      url: 'https://miniresume-builder.vercel.app/'
+    },
+    {
+      name: 'KIMI AI',
+      description: 'Developed a full-stack AI research assistant with support for multiple LLMs, an advanced reasoning pipeline, and persistent chat history using MongoDB.',
+      url: 'https://kimi-chi.vercel.app/'
+    },
     {
       name: 'ClassGPT',
       description: '✨ Kawaii AI-powered study buddy that generates notes, slides, MCQs.',
