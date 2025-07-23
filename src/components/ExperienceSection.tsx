@@ -34,8 +34,8 @@ const ExperienceSection = () => {
       company: 'Asiana Times',
       period: '2022',
       achievements: [
-        [cite_start]'Enhanced website performance and SEO, contributing to higher search engine rankings and increased traffic [cite: 34]',
-        [cite_start]'Collaborated on site development and maintenance using React.js to ensure a responsive experience [cite: 36]'
+        'Enhanced website performance and SEO, contributing to higher search engine rankings and increased traffic [cite: 34]',
+        'Collaborated on site development and maintenance using React.js to ensure a responsive experience [cite: 36]'
       ]
     }
   ];
